@@ -40,3 +40,4 @@ The detailed design of the project can be found in the following docs:
 
 For the broader view of monitoring in Kubernetes take a look into
 [Monitoring architecture](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/instrumentation/monitoring_architecture.md)
+# metrics-server
